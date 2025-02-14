@@ -1,0 +1,8 @@
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+    height: 90vh;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
